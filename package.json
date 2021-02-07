@@ -1,5 +1,5 @@
 {
-  "name": "webmention-endpoint-discovery",
+  "name": "@whalecoiner/webmention-endpoint-discovery",
   "version": "1.0.0",
   "description": "A module to discover the webmention endpoint, if any, for a given URL",
   "main": "index.js",
@@ -28,5 +28,6 @@
     "jest": "^26.6.3",
     "node-fetch": "^2.6.1",
     "parse-link-header": "^1.0.1"
-  }
+  },
+  "devDependencies": {}
 }
